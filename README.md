@@ -190,4 +190,5 @@ new webpack.DllReferencePlugin({
 
 
 
-[https://www.webpackjs.com/plugins/dll-plugin/](https://www.webpackjs.com/plugins/dll-plugin/)
+[DllPlugin](https://www.webpackjs.com/plugins/dll-plugin/)
+[dynamic-link library][https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-libraries?redirectedfrom=MSDN]
