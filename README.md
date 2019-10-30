@@ -188,7 +188,7 @@ new webpack.DllReferencePlugin({
 
 * vendor 独立打包， 也是 webpack 现有的做法
 
-
+## 参考
 
 [DllPlugin](https://www.webpackjs.com/plugins/dll-plugin/)
 
