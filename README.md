@@ -31,7 +31,7 @@ cyber-scripts 4.0.5 & 4.0.7
 
     context: __dirname
 
-右侧在 项目 node_modules/.../cyber-scripts/ 目录想打包
+右侧在 项目 node_modules/.../cyber-scripts/ 目录下打包
 
     context: __dirname
 
@@ -153,7 +153,7 @@ webpack
 
 在 line: 80 没有匹配到 key， 所以将 axios 添加到 index.js 中
 
-## 解决办法
+## 解决方案
 
 * 修改 DllReferencePlugin `context`
 
